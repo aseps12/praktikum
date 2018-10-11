@@ -26,3 +26,10 @@
 	-menggunakan perintah if untuk menentukan nilai terbesar dan terkecil
 	-if (nilai>max) max=nilai;
 	-if (nilai<min) min=nilai;
+
+	#Latihan1.3
+	-Membuat perulangan penjumlahan menggunakan for i
+	-mendeklarasikan int i,bil,nilai,total=0
+	-memasukan jumlah nilai yang akan di input
+	-memasukan nilai yang akan di jumlahkan
+	-menampilkan total penjumlahan.
